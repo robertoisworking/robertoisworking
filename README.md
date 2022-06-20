@@ -16,3 +16,23 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
 </div>
+
+---
+
+### About me 👨‍💻
+
+1.- My past experience consist of Business Development and Product Management roles 👔
+
+2.- I'm a hard working person that always loves learning something new 📖
+
+3.- Languages are an important part of me. I speak Spanish, English, and a bit of French and Portuguese 🌎
+
+4.- I'm a coachable person, but independent enough to find solutions to problems I might face 💡
+
+5.- My [website](https://sitio.com) and my [email](mailto:robertoisworking@gmail.com)
+
+---
+
+### My stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertoisworking&layout=compact)](https://github.com/robertoisworking/github-readme-stats)
