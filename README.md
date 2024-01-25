@@ -1,7 +1,7 @@
 <div id="header" align = "center">
     <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="Me :)" width="200">
     <h1 align = "center">Hi, I'm Roberto 😎</h1>
-    <h3 align = "center" font-><i>I have been involved in the tech world for over 10 years now (2022) and now I'm diving deep into becoming a fullstack developer.</i></h3>
+    <h3 align = "center" font-><i>I have been involved in the tech world for over 10 years now and now I'm diving deep into becoming a fullstack developer.</i></h3>
 </div>
 
 <div id="badges" align = "center">
